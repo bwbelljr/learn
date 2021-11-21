@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: some-package
+Version: 1.0
+Summary: Demonstrate packaging and distribution
+Home-page: https://pragprog.com/book/bopytest/python-testing-with-pytest
+Author: Brian Okken
+Author-email: brian@pythontesting.net
+License: UNKNOWN
+Platform: UNKNOWN
+License-File: LICENSE
+
+UNKNOWN
+
